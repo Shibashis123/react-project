@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  background-color: rgb(120, 80, 29);
+}
+body {
+  margin: 40px;
+  background: #8d97ed;
+  text-align: center;
+}
+button {
+  background-color: #61e865; /* Green */
+  border: 10px solid #61e865;
+  color: rgb(204, 29, 29);
+  margin: 40px;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+}
+footer {
+  text-align: center;
+  color: rgb(57, 118, 131);
+}
