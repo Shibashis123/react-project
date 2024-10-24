@@ -22,7 +22,7 @@ function App() {
     if (Counter < 15) {
       alert("shiba is good at coding");
     } else {
-      alert("shiba will be successfull");
+      alert("please provide proper value to remove ");
     }
   };
   return (
